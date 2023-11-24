@@ -1,0 +1,16 @@
+Funções de ativação que podem ser testadas, lembrando que existem muitas outras:
+    linear
+    relu
+    selu
+    leaky_relu
+    sigmoid
+    elu
+    tanh 
+
+Funções de perda que podem ser testadas, lembrando que existem muitas outras e você pode criar as suas propias:
+    huber
+    'mean_squared_error'
+    'binary_crossentropy'
+    'mean_absolute_error'
+    'huber_loss'
+    'logcosh'
