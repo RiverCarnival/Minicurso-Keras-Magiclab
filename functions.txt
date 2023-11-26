@@ -1,16 +1,20 @@
-Funções de ativação que podem ser testadas, lembrando que existem muitas outras:
-    linear
-    relu
-    selu
-    leaky_relu
-    sigmoid
-    elu
-    tanh 
+Explore diversas funções de ativação em seus testes, lembrando que há uma ampla variedade disponível, incluindo, mas não se limitando a:
 
-Funções de perda que podem ser testadas, lembrando que existem muitas outras e você pode criar as suas propias:
-    huber
-    'mean_squared_error'
-    'binary_crossentropy'
-    'mean_absolute_error'
-    'huber_loss'
-    'logcosh'
+- Linear
+- ReLU (Rectified Linear Unit)
+- SELU (Scaled Exponential Linear Unit)
+- Leaky ReLU
+- Sigmoid
+- ELU (Exponential Linear Unit)
+- Tanh
+
+Da mesma forma, considere experimentar diferentes funções de perda, entre as muitas disponíveis. Além das mencionadas, você pode criar suas próprias funções personalizadas. Algumas opções incluem:
+
+- Huber
+- Mean Squared Error
+- Binary Crossentropy
+- Mean Absolute Error
+- Huber Loss
+- Logcosh
+
+Essa diversidade oferece a flexibilidade necessária para adaptar seu modelo a diferentes tipos de dados e problemas, permitindo uma abordagem mais refinada e eficaz durante o desenvolvimento e treinamento de redes neurais.
